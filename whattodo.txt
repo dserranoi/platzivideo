@@ -1,0 +1,17 @@
+npm install @babel/register
+npm install express dotenv
+//install nodemon and dotenv, so it helps to reflect the changes uppon saving.
+npm install nodemon 
+//helps to have environment variables.
+npm install dotenv
+
+//move webpack from dev dependencies to dependencies
+npm install
+npm install webpack
+
+//modify webpack.config.js
+//add webpack, wenpackhotmodule, modify entry, add mode.
+
+npm react-hot-loader
+
+//add react-hot-loader to .babelrc
